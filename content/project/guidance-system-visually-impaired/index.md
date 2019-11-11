@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: ""
+url_pdf: "files/Report.pdf"
 url_slides: ""
 url_video: ""
 
@@ -27,7 +27,3 @@ slides: guidance-system
 ---
 
 This project helps individuals with impaired vision navigate the streets of a city. The system detects obstacles, recognizes traffic lights and guides the user to his/her desired destination. It's obstacle detector system can detect pedestrians, dogs, pigeons, light poles, the edge of sidewalks, garbage bins, bus shelters, etc. It also has a traffic light detector that is able to identify green, yellow and red lights. Lastly, it has a navigator that tells the user the directions to follow to get to his/her desired destination. These three systems are placed on a medical walker. A 12 volt, 4.5 Ah battery provides power for all subsystems (except for the phone).
-
-All details and specifics about the project can be found in the report below.
-
-View report here: [Project Report (PDF)](https://www.dropbox.com/s/iz05q796kycag6p/Draft%20Final%20Report%20.pdf?dl=0)
