@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to using academia's Slides feature.
+summary: An introduction to using Academic's Slides feature.
 authors: []
 tags: []
 categories: []
@@ -15,7 +15,7 @@ slides:
 
 # Welcome to Slides
 
-[academia](https://sourcethemes.com/academic/)
+[Academic](https://sourcethemes.com/academic/)
 
 ---
 
@@ -50,7 +50,7 @@ Code block:
 ```python
 porridge = "blueberry"
 if porridge == "blueberry":
-  print("Eating...")
+    print("Eating...")
 ```
 
 ---
