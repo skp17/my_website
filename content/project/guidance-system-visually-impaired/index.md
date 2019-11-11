@@ -30,4 +30,4 @@ This project helps individuals with impaired vision navigate the streets of a ci
 
 All details and specifics about the project can be found in the report below.
 
-View report here: [Project Report (PDF)](Report.pdf)
+View report here: [Project Report (PDF)](https://www.dropbox.com/s/iz05q796kycag6p/Draft%20Final%20Report%20.pdf?dl=0)
