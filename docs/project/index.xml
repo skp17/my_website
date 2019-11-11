@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Steven Peters</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Banking System</title>
+      <link>/project/bank-system/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/bank-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guidance System for The Visually Impaired</title>
+      <link>/project/guidance-system-visually-impaired/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/project/guidance-system-visually-impaired/</guid>
+      <description>&lt;p&gt;This project helps individuals with impaired vision navigate the streets of a city. The system detects obstacles, recognizes traffic lights and guides the user to his/her desired destination. It&amp;rsquo;s obstacle detector system can detect pedestrians, dogs, pigeons, light poles, the edge of sidewalks, garbage bins, bus shelters, etc. It also has a traffic light detector that is able to identify green, yellow and red lights. Lastly, it has a navigator that tells the user the directions to follow to get to his/her desired destination. These three systems are placed on a medical walker. A 12 volt, 4.5 Ah battery provides power for all subsystems (except for the phone).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
