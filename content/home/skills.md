@@ -38,4 +38,16 @@ subtitle = ""
   name = "C++"
 #  description = "100%"
 
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+#  description = "100%"
+
+[[feature]]
+  icon = "network-wired"
+  icon_pack = "fas"
+  name = "BACnet and Modbus protocols"
+#  description = "100%"
+
 +++
