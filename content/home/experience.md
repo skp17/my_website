@@ -27,8 +27,10 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Developping software that are compatible with modbus and BACnet protocols
-  * Debugging company software
+  * Develop software in python that were compatible with Modbus and BACnet protocols for the company’s embedded systems department and testing department.
+  * Worked on a NodeJS module written in C\\C++ that sent BACnet services through an IP network
+  * Provided support to various departments and requested feedback for UX improvements
+
   """
 
 # [[experience]]
