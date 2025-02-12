@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Embedded Systems Developer"
+  title = "Internal Software Developer"
   company = "Neptronic"
   company_url = ""
   location = "Montréal, Canada"
@@ -26,9 +26,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Develop software in python that were compatible with Modbus and BACnet protocols for the company’s embedded systems department and testing department.
-  * Worked on a NodeJS module written in C\\C++ that sent BACnet services through an IP network
+
+  * Developed software in **Python** that were compatible with **Modbus** and **BACnet** protocols for the company’s R&D and testing departments
+  * Designed GUIs using **Qt** Framework and **MVC** architecture
+  * Developed key features for Yabe, an open-source BACnet explorer written in **C#**, enabling large-scale updates for company products
+  * Worked on a **Node.js** module written in **C\\C++** that provides BACnet/IP communication
+  * Documented software systems using **Sphinx** & Markdown, and wrote user manuals
+  * Assisted in conducting technical interviews and assessed candidates’ technical skills
+  * Trained employees & interns on the best practices in internal software development
   * Provided support to various departments and requested feedback for UX improvements
 
   """

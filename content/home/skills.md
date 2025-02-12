@@ -31,17 +31,23 @@ subtitle = ""
   icon_pack = "fas"
   name = "Problem Solving"
 #  description = "100%"  
-  
-[[feature]]
-  icon = "laptop-code"
-  icon_pack = "fas"
-  name = "C++"
-#  description = "100%"
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
+#  description = "100%"
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "C#"
+#  description = "100%"
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "C++"
 #  description = "100%"
 
 [[feature]]

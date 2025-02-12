@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Electrical Engineer and Programmer
+role: Electrical Engineer and Software Developer
 
 # Organizations/Affiliations
 organizations:
@@ -67,6 +67,6 @@ user_groups:
 
 I am a graduate in electrical engineering from Concordia University. I have studied in various subfields of electrical engineering
 such as electronics, digital systems design (VHDL), power electronics, digital signal processing, computer architecture, antennas, etc.
-I also have experience in programmimg languages such as C++, Java, HTML, etc.
+I also have experience in programmimg languages such as Python, C#, C/C++, etc.
 
 I am a person who loves to learn and improve myself in all aspects. I love helping others and sharing my knowledge.
