@@ -1,6 +1,6 @@
 ---
 title: YABE Plugins
-summary: YABE plugins that upload/download files across multiple devices simultaneously
+summary: YABE plugins written in **C#** that upload/download files across multiple devices simultaneously
 tags:
 - Programming
 date: "2025-01-01T00:00:00Z"

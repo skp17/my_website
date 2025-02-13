@@ -27,14 +27,14 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Developed software in **Python** that were compatible with **Modbus** and **BACnet** protocols for the company’s R&D and testing departments
-  * Designed GUIs using **Qt** Framework and **MVC** architecture
-  * Developed key features for Yabe, an open-source BACnet explorer written in **C#**, enabling large-scale updates for company products
-  * Worked on a **Node.js** module written in **C\\C++** that provides BACnet/IP communication
-  * Documented software systems using **Sphinx** & Markdown, and wrote user manuals
-  * Assisted in conducting technical interviews and assessed candidates’ technical skills
-  * Trained employees & interns on the best practices in internal software development
-  * Provided support to various departments and requested feedback for UX improvements
+  *	Developed **Python** software compatible with **Modbus** and **BACnet** protocols for R&D and testing departments, enhancing data communication and system integration.
+  *	Designed GUIs using the **Qt Framework** and **MVC** architecture, improving user experience and interface efficiency.
+  *	Enhanced Yabe, an open-source BACnet explorer written in **C#**, enabling large-scale updates for company products, thereby increasing functionality and performance.
+  *	Created a **Node.js** module written in **C/C++** for BACnet/IP communication, facilitating seamless network interactions.
+  *	Documented software systems using **Sphinx** and **Markdown**, and authored comprehensive user manuals, ensuring clear and accessible documentation.
+  *	Conducted technical interviews and assessed candidates' technical skills, contributing to the recruitment of qualified team members.
+  *	Trained employees and interns on best practices in internal software development, fostering a culture of continuous learning and improvement.
+  *	Provided support to various departments and gathered feedback for UX improvements, enhancing overall user satisfaction and product usability.
 
   """
 

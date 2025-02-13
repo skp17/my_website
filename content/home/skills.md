@@ -15,24 +15,6 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "comments"
-  icon_pack = "fas"
-  name = "Communication"
-#  description = "100%"
-
-[[feature]]
-  icon = "chart-pie"
-  icon_pack = "fas"
-  name = "Analysis"
-#  description = "100%"
-  
-[[feature]]
-  icon = "tools"
-  icon_pack = "fas"
-  name = "Problem Solving"
-#  description = "100%"  
-
-[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
@@ -55,5 +37,23 @@ subtitle = ""
   icon_pack = "fas"
   name = "BACnet and Modbus protocols"
 #  description = "100%"
+
+[[feature]]
+  icon = "comments"
+  icon_pack = "fas"
+  name = "Communication"
+#  description = "100%"
+
+[[feature]]
+  icon = "chart-pie"
+  icon_pack = "fas"
+  name = "Analysis"
+#  description = "100%"
+  
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Problem Solving"
+#  description = "100%"  
 
 +++

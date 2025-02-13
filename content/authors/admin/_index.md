@@ -65,8 +65,7 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate in electrical engineering from Concordia University. I have studied in various subfields of electrical engineering
-such as electronics, digital systems design (VHDL), power electronics, digital signal processing, computer architecture, antennas, etc.
-I also have experience in programmimg languages such as Python, C#, C/C++, etc.
+I am a graduate in Electrical Engineering from Concordia University, with a comprehensive background in various subfields including electronics, digital systems design (VHDL), power electronics, digital signal processing, computer architecture, and antennas. 
+Additionally, I have proficiency in programming languages such as Python, C#, and C/C++.
 
-I am a person who loves to learn and improve myself in all aspects. I love helping others and sharing my knowledge.
+I am passionate about continuous learning and self-improvement. I enjoy helping others and sharing my knowledge to foster a collaborative and supportive environment.
